@@ -1,3 +1,3 @@
 def foo(string: str):
-    """This is foo"""
+    """This is a function"""
     return string.upper()
