@@ -1,7 +1,7 @@
 def foo(string: str):
-    """This is new foo"""
+    """This is new foo fixed"""
     return string.upper()
 
 def boo(string: str):
-    """This is new boo"""
+    """This is new boo fixed"""
     return string.capitalize()
